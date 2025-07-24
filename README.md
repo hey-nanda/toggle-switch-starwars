@@ -1,12 +1,14 @@
-# React + Vite
+🌗 Star Wars simple Theme Toggle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This commit implements a **toggle** to switch between ☀️**Light**☀️ and 🌙**Dark**🌙 themes using **HTML**, **CSS**, and **JavaScript**.
 
-Currently, two official plugins are available:
+⤷ How to Test
+- Open the project and click the "Choose the Darkside?" button to switch theme. Or "Choose the Jedi?" to switch back.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [View it here](https://hey-nanda.github.io/dark-light-modeToogle/)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technical Details
+- **HTML**: Structure with the toggle button.
+- **CSS**: Styles for both themes.
+- **JS**: Function to toggle button.
