@@ -6,7 +6,7 @@ This commit implements a **toggle** to switch between ☀️**Light**☀️ and 
 ⤷ How to Test
 - Open the project and click the "Choose the Darkside?" button to switch theme. Or "Choose the Jedi?" to switch back.
 
-🔗 [View it here](https://hey-nanda.github.io/dark-light-modeToogle/)
+🔗 [View it here](https://hey-nanda.github.io/toggle-switch-starwars/)
 
 ## Technical Details
 - **HTML**: Structure with the toggle button.
